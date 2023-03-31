@@ -1,6 +1,6 @@
  //Display the current date at page header
 var today = dayjs();
-    $("#currentDay").text(today.format('MMM D, YYYY'));
+    $("#currentDay").text(today.format('dddd, MMMM D, YYYY'));
     
 //Call to JQuery
 $(document).ready(function() {
