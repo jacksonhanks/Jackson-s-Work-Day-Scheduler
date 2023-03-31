@@ -1,12 +1,12 @@
 # Jackson's-Work-Day-Scheduler
 
 ## Description 
-This webpage was designed as a simple calender application to effectively schedule a busy work-day.  
+This webpage was designed as a simple calender application to effectively schedule a busy work-day.  This application allows one to create and save tasks for different hours between 8am to 5pm.  When information is inputted into the hourly description 
 
 ## Installation
-This webpage was uploaded to GitHub at the repository: 
+This webpage was uploaded to GitHub at the repository: https://github.com/jacksonhanks/Jacksons-Work-Day-Scheduler.git
 
-This webpage can also be accessed by the deployed aapplication with the following link: 
+This webpage can also be accessed by the deployed aapplication with the following link: https://jacksonhanks.github.io/Jacksons-Work-Day-Scheduler/
 
 ## Credits
 This webpage was created with the help of a friend and lead developer, Vincent Lewis, as well as various third party attributes linked below.
@@ -26,6 +26,8 @@ This webpage was created with the help of a friend and lead developer, Vincent L
 [JQuery](https://learn.jquery.com/using-jquery-core/document-ready/)
 
 [MDN Web Docs Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+[Makitweb Add/remove classes](https://makitweb.com/addclass-and-removeclass-methods-in-jquery/)
 
 ## License
 MIT License 
