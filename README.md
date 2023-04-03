@@ -3,7 +3,7 @@
 ## Description 
 This webpage was designed as a simple calender application to effectively schedule a busy work-day.  This application allows one to create and save tasks for different hours between 8am to 5pm.  When information is inputted into the hourly description, the information can be saved to the local storage within the browser so that when the page is refreshed the saved trasks remain, although it is imperative that the save button be clicked in order for that to occur.  Additionally, the hourly time-blocks are color-coded to change color based on whether they are in the past, present, or future.  
 
-
+![screencapture-127-0-0-1-5500-index-html-2023-04-03-18_50_59](https://user-images.githubusercontent.com/125209654/229643846-675f7faf-0f6d-4b84-9adc-fc228be8cfed.png)
 
 ## Installation
 This webpage was uploaded to GitHub at the repository: https://github.com/jacksonhanks/Jacksons-Work-Day-Scheduler.git
